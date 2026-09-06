@@ -1,0 +1,16 @@
+skills = {"Python", "SQL", "Python", "Git", "SQL"}
+print("=========(Print the set.)===============")
+print(skills)
+print("=========(Add FastAPI.)===============")
+skills.add("FastAPI")
+print(skills)
+print("=========(Remove Git)==========================")
+skills.remove("Git")
+print(skills)
+print("=========(Try discard (Java))==========================")
+skills.discard("Java")
+print(skills)
+print("=========(Print the final set.)==========================")
+print(skills)
+print(len(skills))
+
