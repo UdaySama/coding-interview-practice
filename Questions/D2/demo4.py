@@ -6,4 +6,3 @@ total_sum = sum(nums)
 print(total_sum)
 
 
-# input containing numbers separated by commas, convert them into a list of integers, and print their sum
